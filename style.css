@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+}
+.centered {
+    text-align: center;
+}
+.column {
+    float: left;
+}
+
+.left {
+    width: 60%;
+}
+.right {
+    width: 40%
+}
